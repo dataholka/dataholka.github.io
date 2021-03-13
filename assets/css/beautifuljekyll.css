@@ -14,7 +14,7 @@ html {
 
 body {
   font-family: 'Lusitana', serif;
-  font-size: 14px;
+  font-size: 14pt;
   color: {{ site.text-col | default: "#0d0f11" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
@@ -33,16 +33,16 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.1;
 }
 h1 {
-  font-size: 2.25rem;
+  font-size: 45pt;
 }
 h2 {
-  font-size: 1.875rem;
+  font-size: 34pt;
 }
 h3 {
-  font-size: 1.5rem;
+  font-size: 20pt;
 }
 h4 {
-  font-size: 1.125rem;
+  font-size: 18pt;
 }
 h1, h2, h3, h4 {
   margin-top: 1.25rem;
