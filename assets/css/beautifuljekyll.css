@@ -15,7 +15,7 @@ html {
 body {
   font-family: 'Lusitana', serif;
   font-size: 14pt;
-  color: {{ site.text-col | default: "#0d0f11" }};
+  color: /* --- {{ site.text-col | default: --- */ "#0d0f11";
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
   {% if site.page-img %}
