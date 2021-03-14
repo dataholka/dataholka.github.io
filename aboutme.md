@@ -12,7 +12,7 @@ I used to work in companies handling personal data harvested from social media p
 
 From the topics of datafication and data surveillance, I extended my interest to algorithms and how these help design the experience for thousands of people using their personal data. Currently, I am interested in learning more about the intersection of recommmendation algorithms, datafication, data literacy and pop culture. To be more specific, Netflix and alike is one of the socio-technical platforms I am interested in. Especially intruiging is what users make out of the algorithmic recommendations and related phenomena.
 
-A current study I prepare to work on with Dr. Brian McKernan will concern about folk theories evolving around and explaining Netflix recommender algorithm.
+A current study I prepare to work on will concern about folk theories evolving around and explaining Netflix recommender algorithm.
 
 ### Video games & UX/Design Research
 
