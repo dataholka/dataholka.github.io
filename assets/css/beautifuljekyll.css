@@ -127,7 +127,6 @@ img {
 
 .navbar-custom {
   background-color: #ffffff;
-  border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
   font-family: 'Alatsi', sans-serif;
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
