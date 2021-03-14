@@ -51,10 +51,17 @@ a {
   color: #000000;
   text-decoration: underline;
 }
-a:hover,
+a:hover {
+  color: #ffffff;
+  background-color: #d2374a;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+}
 a:focus {
   color: #b60000";
-  background-color: #f1f9ff;
 }
 blockquote {
   color: #808080;
