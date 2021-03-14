@@ -5,6 +5,7 @@ author: "Leni Krsova"
 categories: uxdesign
 cover-img: /assets/img/witcher3-dark.jpg
 readtime: true
+thumbnail-img: ""
 tags: [documentation,sample]
 ---
 
