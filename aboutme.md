@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: TLDR; originally from Central Europe, currently residing in Upstate New York. I am an iSchool PhD student in an interdisciplinary field of information science & technology. 
+subtitle: TLDR; originally from Central Europe, currently residing in Upstate New York. I am an iSchool PhD student in an interdisciplinary field of information science & technology.
+full-width: true
 ---
 
 ## Research-wise
