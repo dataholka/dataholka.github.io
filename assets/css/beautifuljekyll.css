@@ -137,11 +137,6 @@ img {
   transition: padding .5s ease-in-out;
 }
 
-.navbar-custom
-a {
-  text-decoration: none;
-}
-
 .navbar-custom,
 .navbar-custom.top-nav-short,
 .navbar-custom.top-nav-short-permanent {
@@ -199,6 +194,7 @@ a {
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
   font-weight: 400;
+  font-decoration: none;
   color: {{ site.navbar-text-col | default: "#404040" }};
 }
 
