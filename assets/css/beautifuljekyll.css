@@ -177,7 +177,7 @@ img {
 }
 
 .navbar-custom .navbar-nav .nav-item {
-  text-transform: uppercase;
+  text-decoration: none;
   font-size: 0.8125rem;
   letter-spacing: 0.0625rem;
 }
@@ -301,6 +301,7 @@ img {
     padding-left: 2rem;
   }
 }
+
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .navbar-nav .nav-link:hover,
