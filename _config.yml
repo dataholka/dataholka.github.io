@@ -17,8 +17,6 @@ navbar-links:
   Home: 
   Blog: "blog"
   Research: "research"
-   - Publications: "publications"
-   - Research Projects: "research-projects"
   Resources: "resources"
   About Me: "aboutme"
   
