@@ -198,7 +198,7 @@ a {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
-  font-weight: 800;
+  font-weight: 400;
   color: {{ site.navbar-text-col | default: "#404040" }};
 }
 
@@ -543,7 +543,7 @@ footer .footer-custom-content {
 }
 
 .post-preview .post-read-more {
-  font-weight: 800;
+  font-weight: 400;
 }
 
 @media (min-width: 768px) {
@@ -791,8 +791,9 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 .pagination .page-item .page-link {
   font-family: 'Alatsi', sans-serif;
   text-transform: uppercase;
+  text-decoration: none;
   font-size: 0.875rem;
-  font-weight: 800;
+  font-weight: 400;
   letter-spacing: 1px;
   padding: 0.625rem 0.3125rem;
   background-color: #FFF;
