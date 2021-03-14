@@ -3,7 +3,7 @@ layout: post
 title: "Witcher 3: Wandering in the Dark quest should not be this hard"
 author: "Leni Krsova"
 categories: uxdesign
-cover-img: witcher3-dark.jpg
+cover-img: /assets/img/witcher3-dark.jpg
 readtime: true
 tags: [documentation,sample]
 ---
