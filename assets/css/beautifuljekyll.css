@@ -137,6 +137,11 @@ img {
   transition: padding .5s ease-in-out;
 }
 
+.navbar-custom
+a {
+  text-decoration: none;
+}
+
 .navbar-custom,
 .navbar-custom.top-nav-short,
 .navbar-custom.top-nav-short-permanent {
@@ -178,7 +183,7 @@ img {
 
 .navbar-custom .navbar-nav .nav-item {
   text-decoration: none;
-  font-size: 14pt;
+  font-size: 12pt;
   letter-spacing: 0.0625rem;
   font-weight: 400;
 }
