@@ -37,18 +37,32 @@ Algorithms are products of different types of culture, blending both technical a
 
 #### References:
 Baker, P., & Potts, A. (2013). ‘Why do white people have thin lips?’Google and the perpetuation of stereotypes via auto-complete search forms. Critical discourse studies, 10(2), 187-204.
+
 Barocas, S., Hood, S., & Ziewitz, M. (2013). Governing algorithms: A provocation piece. Available at SSRN 2245322.
+
 Beer, D. (2009). Power through the algorithm? Participatory web cultures and the technological unconscious. new media & society, 11(6), 985-1002.
+
 Blass, A., & Gurevich, Y. (2004). Algorithms: A quest for absolute definitions. In Current Trends in Theoretical Computer Science: The Challenge of the New Century Vol 1: Algorithms and Complexity Vol 2: Formal Models and Semantics (pp. 283-311).
+
 Crawford, K. (2016). Can an algorithm be agonistic? Ten scenes from life in calculated publics. Science, Technology, & Human Values, 41(1), 77-92.
+
 Gillespie, T. (2014). The relevance of algorithms. Media technologies: Essays on communication, materiality, and society, 167(2014), 167.
+
 Heidegger, M. (1977). The question concerning technology.
+
 Hooker, J. N. (1994). Needed: An empirical science of algorithms. Operations research, 42(2), 201-212.
+
 Kitchin, R. (2017). Thinking critically about and researching algorithms. Information, Communication & Society, 20(1), 14-29.
+
 Kowalski, R. (1979). Algorithm= logic+ control. Communications of the ACM, 22(7), 424-436.
+
 Nissenbaum, H. (2001). How computer systems embody values. Computer, 34(3), 120-119.
+
 Noble, S. U. (2018). Algorithms of oppression: How search engines reinforce racism. nyu Press.
+
 Striphas, T. (2015). Algorithmic culture. European Journal of Cultural Studies, 18(4-5), 395-412.
+
 Zarsky, T. (2016). The trouble with algorithmic decisions: An analytic road map to examine efficiency and fairness in automated and opaque decision making. Science, Technology, & Human Values, 41(1), 118-132.
+
 Ziewitz, M. (2016). Governing algorithms: Myth, mess, and methods. Science, Technology, & Human Values, 41(1), 3-16.
 
