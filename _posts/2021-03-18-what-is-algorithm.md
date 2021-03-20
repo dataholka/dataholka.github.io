@@ -3,9 +3,9 @@ layout: post
 title: "What is an algorithm: Primer to understand what everyone is talking about"
 author: "Leni Krsova"
 categories: algorithms
-cover-img: /assets/img/algorithm.PNG
+cover-img: /assets/img/algorithm.jpg
 readtime: true
-thumbnail-img: "/assets/img/algorithm.PNG"
+thumbnail-img: ""
 tags: [PhD, algorithms, academia]
 ---
 
