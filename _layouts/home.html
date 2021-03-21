@@ -2,19 +2,29 @@
 layout: page
 ---
 <style>
-.project {
-background-color: #b60000;
-width: 100%;
-}
-</style>
+  .project-cover {
+  background-color: #b60000;
+  width: 100%;
+  }
+  
+  .project-cover .text {
+   background-color: #ffff;
+   width: 50%;
+   font-color: #000;
+   float:left;
+  }
+  
+  
+  .project-cover .img {
+   float: right;
+  }   
+ 
+ </style>
 
 
-<div clas="project">
-  <div><img src="/assets/img/algorithm.jpg">
+<div clas="project cover">
+  <div class="text">blah blah blah</div>
+  <div class="img"><img src="/assets/img/algorithm.jpg">
   </div>
-  
-  
 </div> 
-
-{{ content }}
 
