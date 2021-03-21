@@ -5,8 +5,6 @@ subtitle: TLDR; originally from Central Europe, currently residing in Upstate Ne
 cover-img: "/assets/img/me-leni.jpg"
 
 ---
-Take a peek at <a href="https://docs.google.com/document/d/1c5oXobSi7vI5Ueug64fLB0g4B6WcOQqgzAYEaKxt41Y/edit?usp=sharing">MY PROFESSIONAL CV</a>
-
 ## Research-wise
 
 ### Algorithms & Datafication
