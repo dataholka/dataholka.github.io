@@ -5,6 +5,8 @@ subtitle: I lived thousands lives, brought something to my research from each of
 cover-img: "/assets/img/algorithm.jpg"
 
 ---
+### My professional CV
+Take a look if you're interested in my professional (industrial and academic) path: <a href="https://docs.google.com/document/d/1c5oXobSi7vI5Ueug64fLB0g4B6WcOQqgzAYEaKxt41Y/edit?usp=sharing">CV</a>
 
 ### What can I help you with?
 
