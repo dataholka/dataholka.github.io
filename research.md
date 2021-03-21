@@ -2,6 +2,8 @@
 layout: page
 title: Research
 subtitle: I lived thousands lives, brought something to my research from each of them. Researching is my passion, so is helping students thrive, and keeping academia fair and status quo free.
+cover-img: "/assets/img/algorithm.jpg"
+
 ---
 
 ### What can I help you with?
