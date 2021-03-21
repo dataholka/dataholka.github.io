@@ -5,3 +5,5 @@ subtitle: I lived thousands lives, brought something to my research from each of
 cover-img: "/assets/img/resources.jpg"
 
 ---
+
+This page is currently in the progress. Stay tuned, I am gathering all the resources.
