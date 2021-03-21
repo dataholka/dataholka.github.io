@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-
+cover-img: /assets/img/contact.PNG
 
 ---
 
