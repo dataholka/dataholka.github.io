@@ -10,7 +10,7 @@ tags: [PhD, algorithms, academia]
 ---
 
 ### What is an algorithm? Depends on whom you ask
-Originating from a wrongly transcribed name of a 9th century mathematician, algorithms and interpretations of the concept hidden behind this term have been a part of human history for centuries. The present day meaning perceives algorithms as “a set of mathematical procedures whose purpose is to expose some truth or tendency about the world” [Striphas, 2015]. There is also another, more archaic meaning assigned to algorithms as “coding systems that might reveal, but that are equally if not more likely to conceal” [ibid.]. Algorithms are basically recipes followed by human or non-human entities to accomplish an intended goal.
+Originating from a <a href="https://www.google.com/search?client=firefox-b-1-d&q=algorithm+ethymology">wrongly transcribed name of a 9th century mathematician</a>, algorithms and interpretations of the concept hidden behind this term have been a part of human history for centuries. The present day meaning perceives algorithms as “a set of mathematical procedures whose purpose is to expose some truth or tendency about the world” [Striphas, 2015]. There is also another, more archaic meaning assigned to algorithms as “coding systems that might reveal, but that are equally if not more likely to conceal” [ibid.]. Algorithms are basically recipes followed by human or non-human entities to accomplish an intended goal.
 
 These almost enigmatic explanations and often vague ideas of what algorithms actually are and what they consist of, made them for the longest time a puzzle sought after by mathematicians, logicians, and computer scientists respectively, and it's an ongoing quest and problem in the present also for the social scientists.
 
