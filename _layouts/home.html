@@ -2,29 +2,24 @@
 layout: page
 ---
 <style>
-  .project-cover {
-  background-color: #b60000;
-  width: 100%;
-  }
-  
-  .project-cover .text {
-   background-color: #ffff;
-   width: 50%;
-   font-color: #000;
-   float:left;
-  }
-  
-  
-  .project-cover .img {
-   float: right;
-  }   
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
  
  </style>
 
 
-<div clas="project cover">
-  <div class="text">blah blah blah</div>
-  <div class="img"><img src="/assets/img/algorithm.jpg" width="25%" height="25%">
-  </div>
-</div> 
+<div class="grid-container">
+
+    <div class="grid-child purple">
+        Grid Column 1
+    </div>
+
+    <div class="grid-child green">
+        Grid Column 2
+    </div>
+  
+</div>
 
