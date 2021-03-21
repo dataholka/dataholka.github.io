@@ -4,7 +4,7 @@ title: "How to read academic articles without overloading your brain"
 author: "Leni Krsova"
 categories: resources
 readtime: true
-thumbnail: ""
+thumbnail: " "
 tags: [journals, academics, PhD]
 cover-img: assets/img/reading-academic-articles.jpg
 ---
