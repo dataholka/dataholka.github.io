@@ -55,6 +55,9 @@ a:focus {
   color: #000000;
 }
 
+p a {
+  text-decoration: underline;}
+
 blockquote {
   color: #808080;
   font-style: italic;
