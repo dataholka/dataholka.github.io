@@ -5,6 +5,9 @@ subtitle: I lived thousands lives—brought something to my research from each o
 cover-img: "/assets/img/algorithm.jpg"
 
 ---
+### What I am currently working on
+I am in the middle of preparation work for a study examining how users resist algorithms on entertainment platforms and what folk theories they create about the inner workings of the algorithms. I am interested in Netflix specifically.
+
 ### My professional CV
 Take a look if you're interested in my professional (both industrial and academic) path **<a href="https://docs.google.com/document/d/1c5oXobSi7vI5Ueug64fLB0g4B6WcOQqgzAYEaKxt41Y/edit?usp=sharing">CV</a>**
 
